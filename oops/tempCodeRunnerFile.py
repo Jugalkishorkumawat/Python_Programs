@@ -1,1 +1,0 @@
-print(my_tesla.general_info())
